@@ -1,0 +1,3 @@
+﻿  FileName.c
+D:\mvsc\SORTJABLOCA\FileName.c(85,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  SORTJABLOCA.vcxproj -> D:\mvsc\SORTJABLOCA\x64\Debug\SORTJABLOCA.exe
